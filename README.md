@@ -4,7 +4,7 @@ This repository contains a simple implementation of house price prediction using
 
 ## Requirements
 
-- Python (>= 3.6)
+- Python 
 - NumPy
 - Pandas
 - Scikit-learn
